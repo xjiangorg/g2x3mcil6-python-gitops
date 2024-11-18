@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: g2x3mcil6-python-repository
+spec:
+  url: https://github.com/xjiangorg/g2x3mcil6-python
